@@ -25,8 +25,8 @@ Examples :
 File -> Examples -> TM1637
 
 
-
-This is the Arduino Sketch  where
+This is the Arduino Sketch  where we can read the temperature from the DHT 11 on pin 3 
+and display it on the 7-segment LED.
 
 
 	// Transmitter
